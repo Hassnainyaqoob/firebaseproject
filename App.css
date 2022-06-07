@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.signupinputs {
+  padding: 23px;
+  margin-left: 495px;
+}
+
+.signupbutton {
+  margin-left: 605px;
+  margin-top: 24px;
+  color: black;
+}
+
+#signupmain {
+  margin-top: 55px;
+
+}
+
+
+
+#signupword {
+  margin-left: 575px;
+  font-size: 45px;
+  color: rgb(99, 99, 221);
+  margin-bottom: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-shadow: 3px 3px 4px black;
+}
+
+#buttons {
+  color: rgb(44, 40, 40);
+  font-size: 20px;
+}
+
+#dashboard {
+  background-color: rgb(79, 79, 250);
+
+}
+
+body{
+  background-color: rgb(221, 212, 212);
+}
+
+#inputss {
+  width: 255px;
+  padding: 20px;
+}
